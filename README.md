@@ -8,7 +8,7 @@ Atualmente, estou focado em aprimorar meus conhecimentos em programação e dese
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias 👨🏻‍💻
 
 <img
   align="left"
