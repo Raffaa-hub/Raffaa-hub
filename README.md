@@ -16,4 +16,22 @@ Atualmente, estou focado em aprimorar meus conhecimentos em programação e dese
   style="padding right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
 />
+
+<img
+  align="left"
+  alt="HTML"
+  title="GDSCRIPT"
+  width="30px"
+  style="padding right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-plain.svg"
+/>
+
+<img
+  align="left"
+  alt="HTML"
+  title="C#"
+  width="30px"
+  style="padding right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
           
