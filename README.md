@@ -14,7 +14,7 @@ Atualmente, estou focado em aprimorar meus conhecimentos em programação e dese
   title="GODOT ENGINE"
   width="30px"
   style="padding right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" 
 />
 
 <img
@@ -23,7 +23,7 @@ Atualmente, estou focado em aprimorar meus conhecimentos em programação e dese
   title="GDSCRIPT"
   width="30px"
   style="padding right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-plain.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"
 />
 
 <img
