@@ -6,6 +6,8 @@ Meu nome é Rafael Vinícius, tenho 20 anos e moro em Teresina, Piauí. Concluí
 
 Atualmente, estou focado em aprimorar meus conhecimentos em programação e desenvolvimento de jogos, buscando transformar minhas ideias em experiências que possam ser compartilhadas com outras pessoas. 🎮💻
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img
